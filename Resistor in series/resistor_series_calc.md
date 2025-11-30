@@ -9,6 +9,9 @@
 * $R_1$ = 300Ω
 * $R_2$ = 200Ω
 * $R_3$ = 1kΩ
+
+## power supply
+
 * Power supply; $V=9VDC$ (Battery)
 
 ## Calculations to be made
